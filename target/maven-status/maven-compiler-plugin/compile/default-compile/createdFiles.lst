@@ -1,0 +1,3 @@
+com\test\shiro\realm\UserRealm.class
+com\test\shiro\realm\ShiroCasRealm.class
+com\test\shiro\utils\Key.class
